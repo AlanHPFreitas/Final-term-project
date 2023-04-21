@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(27, 130, 139);
+    color: rgb(243, 247, 247);
+}
+.center {
+    background-color: #7fa098;
+   font-size: larger;
+   display: inline-flex ;
+   width: 100vw;
+   height: 15vh;
+   padding: 10px;
+   color: aliceblue;
+   
+}
+.link{
+    color: azure;
+    padding-left: 10px;
+    padding-right: 10px;
+    right: 1000px;
+}
+.image{
+   width: 80px;
+   height: 80px;
+}
+.menu{
+    position: relative;
+    left: 460px;
+    padding: 2%;
+    letter-spacing: 2px;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-size: larger;
+}
+.name{
+    text-align: center;
+    padding: 4%;;
+    font-size: 80px;
+}
+.number{
+    font-family:  'Times New Roman';
+    padding-left: 20px;
+}
+.e-mail{
+    font-family: Times, 'Times New Roman', serif;
+    padding-left: 20px;
+}
+.text{
+    text-align: center;
+}
+.information{
+    font-size: 40px;
+    padding-top: 20px;
+    padding-bottom: 16px;
+    padding-left: 30px;
+}
+.senai{
+    width: 180px;
+    height: 90px;
+    border-radius: 50%;
+    margin-top: 30px;
+    
+}
+.pitagoras{
+    width: 150px;
+    height: 80px;
+    border-radius: 70%;
+    margin-top: 30px;
+    
+}
+.bowvalley{
+    width: 150px;
+    height: 120px;
+    border-radius: 50%;
+    margin-top: 30px;
+}
+.experience{
+    font-size: 40px;
+    padding-top: 20px;
+    padding-bottom: 16px;
+    padding-left: 30px;
+}
+.languages{
+    font-size: 40px;
+    padding-top: 20px;
+    padding-bottom: 16px;
+    padding-left: 30px;
+}
+h3{
+    margin-top: 10px;
+    margin-left: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+footer{
+        background-color: #7fa098;
+       font-size: larger;
+       width: 100vw;
+       height: 20vh;
+       margin-top: 50px;
+       text-align: center;
+       padding-top: 100px
+}
+.img_soccer{
+    width: 400px;
+    height: 400px;
+    margin-left: 190px;
+    border-radius: 90%;
+}
+.img_bike{
+    width: 400px;
+    height: 400px;
+    margin-left: 500px;
+   
+    
+}
+.img_nature{
+    width: 400px;
+    height: 400px;
+    margin-left: 70px;
+    overflow: hidden;
+    
+}
+.soccer{
+    display: inline-flex;
+}
+.vagas{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center
+}
+.title_soccer{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    font-size: 40px;
+}
+.soccer{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.title_bike{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    font-size: 40px;
+}
+.bike{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.title_nature{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    font-size: 40px;
+}
+.nature{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.html {
+    text-align: center;
+    padding: 10px;
+}
+table{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+td{
+    border: 5px solid black;
+    padding: 10px;
+}
+th{
+    border: 5px solid black;   
+    padding: 10px;
+    
+}
